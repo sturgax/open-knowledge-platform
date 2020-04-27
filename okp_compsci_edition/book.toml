@@ -1,0 +1,6 @@
+[book]
+authors = ["sturgax"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Sturgax's Open Knowledge Platform - Computer Science Edition"
