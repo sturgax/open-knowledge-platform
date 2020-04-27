@@ -24,3 +24,10 @@ learn how the computer really works and I want to manipulate it the way
 I want. It is my understanding that C requires manual memory management.
 This sounds like something I want. At least, like I stated before, for the 
 beginning.
+
+# Resources
+
+I will be following along with these resources
+* [Modern C PDF (download)](https://gforge.inria.fr/frs/download.php/latestfile/5298/ModernC.pdf)
+* [The C Book](https://publications.gbdirect.co.uk//c_book/)
+* [The GNU C Library (glibc)](https://www.gnu.org/software/libc/documentation.html)
